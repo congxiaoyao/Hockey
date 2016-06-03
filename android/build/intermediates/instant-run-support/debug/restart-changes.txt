@@ -1,0 +1,3 @@
+CHANGED,C:\Users\congxiaoyao\AndroidStudioProjects\Hockey2\android\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\congxiaoyao\WorldHolder.class
+CHANGED,C:\Users\congxiaoyao\AndroidStudioProjects\Hockey2\android\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\congxiaoyao\WorldHolder$2.class
+CHANGED,C:\Users\congxiaoyao\AndroidStudioProjects\Hockey2\android\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\congxiaoyao\WorldHolder$1.class
